@@ -1,3 +1,3 @@
-# checkra1n-0.9.4
+# checkra1n
 
-download for checkra1n 0.9.4
+Experimental downloads for checkra1n
